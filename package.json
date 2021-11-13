@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "react-awesome-button": "^6.5.1"
+  }
+}
