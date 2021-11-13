@@ -11,3 +11,5 @@ function TextBox(props) {
         </div>
     );
 }
+
+export default TextBox;
